@@ -104,7 +104,7 @@ transition: transform 1.2s ease;
 /*===== FIXED BACKGROUND IMG =====*/
  
 .fixed {
-  background-image: url('../img/matrix.jpg');
+  background-image: url('../img/1203095.jpg');
   position: fixed;
 
 }
@@ -115,7 +115,7 @@ transition: transform 1.2s ease;
 
 /*-- Emoji Navbar --*/
 .emoji {
-  background-image: linear-gradient(to right, #4981b3, #ac2615);
+  background-image: linear-gradient(to right, #b1cfea, #074c7d);
   min-height: 0!important;
   padding: .4rem 0!important;
 }
@@ -127,7 +127,7 @@ transition: transform 1.2s ease;
 
 /*============= FOOTER =============*/
 footer {
-  background-color: #818080;
+  background-color: #7aaec4;
   padding: 1rem 2rem 3rem;
   text-align: center; /* Center the content horizontally */
 }
@@ -165,7 +165,7 @@ footer .svg-inline--fa:hover {
 
 /*============= SOCKET =============*/
 .socket {
-background-color: #222222;
+background-color: #113b4d;
 border-top: .1rem solid #4981b3;
 
 
